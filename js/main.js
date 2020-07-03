@@ -43,6 +43,6 @@ function getProtocolVersion(url) {
 
 }
 
-getProtocolVersion("ws://10.148.60.15:11012");
-getProtocolVersion("ws://msk-dev-gate.ntprog.com:11012");
-getProtocolVersion("ws://msk-test-gate.ntprog.com:11012");
+getProtocolVersion("wss://10.148.60.15:11012");
+getProtocolVersion("wss://msk-dev-gate.ntprog.com:11012");
+getProtocolVersion("wss://msk-test-gate.ntprog.com:11012");
