@@ -1,0 +1,14 @@
+html {
+    font-size: 20px;
+}
+
+td, th {
+    padding: 10px;
+    text-align: center;
+}
+
+.wrap {
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+}
